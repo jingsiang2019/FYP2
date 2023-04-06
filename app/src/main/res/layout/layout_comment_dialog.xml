@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@color/purple_500"
+        android:text="Note"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/white" />
+
+    <EditText
+        android:id="@+id/contentComment"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@null"
+        android:gravity="top|left"
+        android:padding="10dp"
+        android:inputType="textMultiLine" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSaveComment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:insetLeft="0dp"
+        android:insetRight="0dp"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="Save" />
+</LinearLayout>

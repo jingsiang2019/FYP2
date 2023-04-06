@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FYP2</string>
+    <string-array name="Task_Type">
+        <item>Normal Task</item>
+        <item>Repetitive Task</item>
+        <item>Sub Task</item>
+    </string-array>
+
+    <string-array name="repeat">
+        <item>Once a Day</item>
+        <item>Once a Week</item>
+        <item>Once a Month</item>
+        <item>Once a Year</item>
+    </string-array>
+
+    <string-array name="priority">
+        <item>Low Priority</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="advance">
+        <item>1 day before</item>
+        <item>3 day before</item>
+        <item>1 week before</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

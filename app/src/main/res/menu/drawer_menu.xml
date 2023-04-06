@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <!--WIll still selected-->
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_screenTime"
+            android:icon="@drawable/ic_baseline_insert_chart_outlined_24"
+            android:title="Screen Time"/>
+
+        <item android:id="@+id/nav_focusMode"
+            android:icon="@drawable/ic_baseline_app_blocking_24"
+            android:title="Focus Mode"/>
+        <item android:id="@+id/nav_changePwd"
+            android:icon="@drawable/ic_baseline_lock_reset_24"
+            android:title="Change Password"/>
+        <item android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Setting"/>
+        <item android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="Logout"/>
+    </group>
+</menu>

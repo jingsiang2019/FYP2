@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/custom_oval_shape.xml" value="0.1546875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/custom_upload_button.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_app_blocking_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_check_box_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1390625" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_insert_chart_outlined_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_lock_reset_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_baseline_speech_recognizer_24.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/rounded.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/drawable/sub_task_display.xml" value="0.2703125" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_add_task_page.xml" value="0.269018743109151" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_change_pwd_page.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_loading_page.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_login_page.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_main.xml" value="0.29691211401425177" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_registration_page.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_reset_pwd_page.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_screen_time_display.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/cardview_task_layout.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/img_display.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/layout_comment_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/sub_task_display.xml" value="0.536" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/sub_task_template.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/task_img_insert_template.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/layout/time_used_layout.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/menu/drawer_menu.xml" value="0.4" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/FYP2/app/src/main/res/menu/searching.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
